@@ -1,1 +1,7 @@
-1. Key facts for from watching 2 videos and from reading.
+1. Key facts for from watching 2 videos and from reading: the "Inside a Google data center" stated that their secuirty team created books on best prectices in information security. Another key fact ti me would be after reading 5.08 to understand all hardware there is to use such as servers, clusters, and data center that use emergency power, and colling.
+ 
+2.  Quote 1: "Cloud computing gives you instant access to a broad range of technologies so you can innovate faster and build near anything you can imagine, from infrastructure services such as compute, storage, and databases, to internet of things, machine learning, data analytics. You can deploy technology services in minutes and get from idea to implementation several orders of magnitude faster than before." It was an interesting subject to start off with for and intro on cloud computing. Quote 2: "In general, AWS Availability Zones give you the flexibility to launch production apps and resources that are highly available, resilient/fault-tolerant, and scalable as compared to using a single data center. Having more options and backups is better!" That was an interesting subject as the notes also say you have to an endpoint as well.
+
+3. New facts to pull from readings is choosing the best AWS region to migrate their workloads, and how AWS services can be different for each region because the cost, taxes, manpower and other reasons.
+
+4. No questions.
